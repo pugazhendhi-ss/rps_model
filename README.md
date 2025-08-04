@@ -16,12 +16,9 @@ The model was trained using **Google Colab** on top of the lightweight **YOLOv8n
 ## 🚀 How to Use
 
 1. Clone the project and navigate to the directory.
-2. Install dependencies using one of the following methods:
-
-### Option 1: Using `requirements.txt`
+2. Install dependencies.
+3. Run the main file (Make sure that you have webcam).
 
 ```bash
-pip install -r requirements.txt
-
 uv pip install -r requirements.txt
 

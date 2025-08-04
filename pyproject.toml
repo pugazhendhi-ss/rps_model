@@ -1,7 +1,7 @@
 [project]
 name = "rps-model"
 version = "0.1.0"
-description = "Add your description here"
+description = "real-time Rock, Paper, Scissors hand gesture detector powered by a custom-trained YOLOv8n model."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
